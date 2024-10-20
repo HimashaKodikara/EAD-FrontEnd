@@ -23,7 +23,7 @@ function App() {
         <>
           <Header />
           <main className="flex-grow container mx-auto px-4 py-8">
-            <h1 className="text-3xl font-bold mb-8 text-center">Handcrafted Pottery</h1>
+            <h1 className="text-3xl font-bold mb-8 text-center">Handcrafted </h1>
             <ProductList />
           </main>
           <Footer />
